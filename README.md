@@ -1,3 +1,5 @@
+CURRENT VERSION HAS MY VIZUALIZATION OMITTED - I will be producing a version with an STL of the Viz soon
+
 Dependencies 
 pathLib, numpy, trimesh, tqdm
 
